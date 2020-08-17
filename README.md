@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=aakashbanik.me&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://aakashbanik.me)
 
-## Developer by day, Gamer by night! 
+## Programmer by day, Gamer by night! 
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Contribute more to Open Source projects
