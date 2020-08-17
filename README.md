@@ -8,8 +8,6 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: Rainbow Six: Siege nerd! 🤣
 
-<br />
-
 [<img align="left" alt="aakashbanik.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Aakashbanik | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="AakashBanik | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -36,6 +34,9 @@
 <img align="left" alt="OpenGL" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/opengl.svg" />
 <img align="left" alt="Subversion" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/subversion.svg" />
 
+<br />
+
+## Github Stats
 <br />
 
 <details>
