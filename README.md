@@ -7,9 +7,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: Rainbow Six: Siege nerd! 🤣
-
 <br />
-
 ## Socials
 
 [<img align="left" alt="aakashbanik.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
