@@ -6,7 +6,9 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: Rainbow Six: Siege nerd! 🤣
+- ⚡ Fun fact: Rainbow Six: Siege nerd! 🎮
+- 🎈 Exploring new things.
+- 🎓 Grad student @ University of Adelaide
 
 ### Connect with me:
 
