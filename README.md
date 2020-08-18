@@ -42,10 +42,11 @@
 ## Featured Projects
 
 - 🎮 [OpenGL Renderer]
-- 🎶 Music Genre Classification
-- 🚗 Decentralized Fleet Monitoring
+- 🎶 [Music Genre Classification]
+- 🚗 [Decentralized Fleet Monitoring]
 
 <br />
+
 
 ### Github Stats
 
@@ -62,3 +63,5 @@
 [instagram]: https://instagram.com/aakash_banik
 [linkedin]: https://www.linkedin.com/in/aakash-banik/
 [OpenGL Renderer]: https://github.com/AakashBanik/OpenGL-Renderer/tree/master/OpenGL%20Course
+[Decentralized Fleet Monitoring]: https://github.com/AakashBanik/decentralized-fleet-monitoring
+[Music Genre Classification]: https://github.com/AakashBanik/Music-Genre-Classification 
