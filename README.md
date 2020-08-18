@@ -39,6 +39,14 @@
 
 <br />
 
+## Featured Projects
+
+- 🎮 OpenGL Renderer [OGLR]
+- 🎶 Music Genre Classification
+- 🚗 Decentralized Fleet Monitoring
+
+<br />
+
 ### Github Stats
 
 <details>
@@ -53,3 +61,4 @@
 [website]: https://aakashbanik.me
 [instagram]: https://instagram.com/aakash_banik
 [linkedin]: https://www.linkedin.com/in/aakash-banik/
+[OGLR]: https://github.com/AakashBanik/OpenGL-Renderer/tree/master/OpenGL%20Course
