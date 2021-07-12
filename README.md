@@ -4,7 +4,7 @@
 
 ## Programmer by day, Gamer by night! 
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: Rainbow Six: Siege nerd! 🎮
 - 🎈 Exploring new things.
